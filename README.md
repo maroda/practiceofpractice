@@ -4,9 +4,11 @@ This is a collection of activities for teams. They put relationship first to pro
 
 **Practice of Practice** is a way to provide a social architecture that supports connective labor between teams and team members. Solidifying this layer of relationships is key to nourishing resilience in any organization. It does this through a tripod of supportive and interconnected parts:
 
-1. A _Practice of Practice regimen_ forms a **community of practice** that reflects _ambient values_: the types of learning that happen there are useful elsewhere and drive a culture that upholds these values. 
+1. A _Practice of Practice regimen_ forms a **community of practice** that reflects _ambient values_: the types of learning that happen there are useful elsewhere, driving a culture surrounding these values. 
 2. The _norms and rituals_ provided by Practice of Practice come about because the **organization sanctions and supports** the time and effort that goes into making space in peoples' schedules to become part of the community of practice.
 3. This all requires a **dedicated leader** who makes sure the time and resources exist for connection and empathy. They learn to facilitate and run the gameplay and discover new things about the system along with other community members. They are they champion of this discipline at the org.
+
+What you will find below come in all sorts: physical card games, exercises for remote teams, big activities, small exercises, et al. This is not meant to be extensive or exclusive, only a place to collect them together.
 
 ## Scripts
 
