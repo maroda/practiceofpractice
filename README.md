@@ -10,20 +10,25 @@ This is a collection of activities for teams. They put relationship first to pro
 
 What you will find below come in all sorts: physical card games, exercises for remote teams, big activities, small exercises, et al. This is not meant to be extensive or exclusive, only a place to collect them together.
 
-## Scripts
+## Exercises
 
+1. [Incident Lunch](https://slack.engineering/theres-no-such-thing-as-a-free-lunch/) describes in full detail an exercise the team at **Slack** created with [Blackrock 3 Partners](https://www.blackrock3.com/) based on their "Lunch Break exercise". Slack's version adds ambiguity and surprise by throwing in a set of _Chaos Cards_ that are occassionally played throughout. _"Folks are invited to a two-hour incident training exercise at lunchtime, and told that lunch will be provided. When they arrive, everybody gets a 15 minute refresher on our incident process, and then we drop the bomb: the lunch order fell through, so their exercise now is to obtain lunch for everybody in the room, subject to a few constraints."_ 
 1. <https://github.com/Resilience-Engineering/resilience-tabletop>
 
-## Card Games
+## Games with Cards
 
-1. [Backdoors & Breaches](https://www.blackhillsinfosec.com/tools/backdoorsandbreaches/) is a Security Incident Response game (from Black Hills Information Security and Active Countermeasures) that contains 52 unique cards (with several expansion packs) to help you conduct incident response tabletop exercises and learn attack tactics, tools, and methods.
+1. [Backdoors & Breaches](https://www.blackhillsinfosec.com/tools/backdoorsandbreaches/) is a **Security Incident Response** game (from Black Hills Information Security and Active Countermeasures) that contains 52 unique cards (with several expansion packs) to help you conduct incident response tabletop exercises and learn attack tactics, tools, and methods.
+
+## Apps
+
+1. [Keep Talking and Nobody Explodes](https://keeptalkinggame.com) simulates a complex bomb that one person must diffuse with help from the other players, none of whom can see the bomb. _"You’re alone in a room with a bomb. Your friends, the “Experts”, have the manual needed to defuse it. But there’s a catch: the Experts can’t see the bomb, so everyone will need to talk it out – fast!"_
 
 ## Books
 
 > _Some of these are about and/or contain games and exercises, others are on topics around practice and teamwork._
 
-1. Derek Bailey, "Improvisation: Its Nature and Practice in Music". The source of the term "Practice of Practice".
-2. Alison Pugh, "The Last Human Job: The Work of Connecting in a Disconnected World". To read more about the elements of Social Architecture that support Connective Labor, including the three necessary elements listed above.
+1. Bailey, Derek. "Improvisation: Its Nature and Practice in Music". The source of the term "Practice of Practice".
+2. Pugh, Alison. "The Last Human Job: The Work of Connecting in a Disconnected World". To read more about the elements of Social Architecture that support Connective Labor, including the three necessary elements listed above.
 
 ## Webpages
 
