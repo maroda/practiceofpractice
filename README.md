@@ -29,8 +29,9 @@ What you will find below come in all sorts: physical card games, exercises for r
 
 > _Some of these are about and/or contain games and exercises, others are on topics around practice and teamwork._
 
-1. Bailey, Derek. "Improvisation: Its Nature and Practice in Music". The source of the term "Practice of Practice".
-2. Pugh, Alison. "The Last Human Job: The Work of Connecting in a Disconnected World". To read more about the elements of Social Architecture that support Connective Labor, including the three necessary elements listed above.
+1. Bailey, Derek. **_Improvisation: Its Nature and Practice in Music_**. The source of the term "Practice of Practice". [Archive.org](https://archive.org/details/improvisationits0000bail), [Google Books](https://www.google.com/books/edition/Improvisation/t71s_eqGtEwC?hl=en)
+2. Pugh, Alison. **_The Last Human Job: The Work of Connecting in a Disconnected World_**. To read more about the elements of Social Architecture that support Connective Labor, including the three necessary elements listed above. [Google Books](https://www.google.com/books/edition/The_Last_Human_Job/Yj_oEAAAQBAJ?hl=en)
+3. Schmitt, John F (Major, USMCR). **_Mastering Tactics: A Tactical Decision Games Workbook_**. Writings and exercises for "Tactical Decision Games" (TDGs) that are used by Marines to learn how to make decisions during combat. [Marine Corps Association](https://www.mca-marines.org/wp-content/uploads/Mastering-Tactics.pdf) [Google Books](https://www.google.com/books/edition/Mastering_Tactics/fTOaNQAACAAJ?hl=en)
 
 ## Webpages
 
