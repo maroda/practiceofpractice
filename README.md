@@ -47,7 +47,7 @@ These words have a heritage in music.
 In any type of activity, especially where expertise is seen, there are two forms of _practice_:
 
 1. The **skill we obtain**, that of our craft. The Practice Room. The Laboratory. The Gym. QA. _Theory of Practice_.
-1. The **experience we absorb** when we practice our craft. Real life. Improvisation. Production. Incidents. Practice of Practice.
+1. The **experience we absorb** when we practice our craft. Real life. Improvisation. Production. Incidents. _Practice of Practice_.
 
 Those final two terms - _Theory of Practice_ and _Practice of Practice_ - are lifted from Derek Bailey's writing in _Improvisation: Its Nature and Practice in Music_. He refers eponymously to musicologist Ella Zonis as she describes in _Classical Persian Music_ how the performances do not match theoretical descriptions of how to perform. Bailey says this is what the book is mainly about:
 
